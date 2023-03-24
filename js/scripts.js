@@ -13,7 +13,7 @@ function hideResults () {
   document.getElementById("swift").setAttribute("class", "hidden");
   document.getElementById("rust").setAttribute("class", "hidden");
   document.getElementById("go").setAttribute("class", "hidden");
-  document.getElementById("c##").setAttribute("class", "hidden");
+  document.getElementById("cSharps").setAttribute("class", "hidden");
 }
  
 //Business Logic
@@ -26,6 +26,9 @@ function results() {
   const qGreen = parseInt(document.querySelector("input[name=green]:checked").value);
   document.querySelector("form").removeEventListener("submit", results);
 
-  if (qSnake && qGem && qFast && qOxy && qGreen);
-}
+  if (qSnake && qGem && qFast && qOxy && qGreen); {
+    document.querySelector("#cSharps").removeAttribute("class");
+  }
+  else{}
 
+}
