@@ -1,3 +1,28 @@
 .hidden {
   display: none;
 }
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 50px;
+}
+p1 {
+  float: left;
+  background-color: blueviolet;
+  border-radius: 15px;
+  margin: 15px;
+  border: 30px;
+  border-color: cadetblue;
+  padding: 10px;
+  color:ghostwhite;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+body {
+  background-color: bisque;
+}
+
+
+
+
