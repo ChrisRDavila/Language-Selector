@@ -28,6 +28,15 @@ This application when loaded will allow for selection of a set of asnwers that w
 * _Questions are arbitrary and do not actually guide user towards any real world solution in determining a coding language_
 * _Answer buttons do not start out blank but fixed in "No" to all questions position_
 
+## Credits
+
+*python image contributed by Danleo (CC BY-SA 3.0)
+*ruby image contributed by Honored_Member / Shuttershock
+*swift image contributed by SONNYROLLINS / IMAZINS/GETTY IMAGES
+*rust image contributed by Laitr Keiows
+*stop light image contributed by GETTY IMAGES
+*red ex image contributed by GETTY IMAGES
+
 ## License
 
 [MIT](https://opensource.org/license/mit/)

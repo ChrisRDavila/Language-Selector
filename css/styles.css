@@ -35,7 +35,14 @@ div {
   font-size: 20px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-
+img {
+  border-radius: 30px;
+  margin: 10px;
+  border: 10px;
+  border-color: blanchedalmond;
+  padding: 10px;
+  background-color: crimson;
+}
 
 
 
