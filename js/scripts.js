@@ -37,7 +37,7 @@ function results() {
     } else if(qSnake && !qGem) {
       document.querySelector("#go").removeAttribute("class");
     } else {
-    document.querySelector("cSharp").removeAttribute("class");
-  }
+    document.querySelector("#cSharps").removeAttribute("class");
+    }
 
 }
