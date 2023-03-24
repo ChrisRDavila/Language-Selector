@@ -9,7 +9,7 @@
 * CSS
 * Javascript
 * HTML
-* Web API's
+* Web API
 
 ## Description
 
