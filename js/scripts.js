@@ -26,9 +26,18 @@ function results() {
   const qGreen = parseInt(document.querySelector("input[name=green]:checked").value);
   document.querySelector("form").removeEventListener("submit", results);
 
-  if (qSnake && qGem && qFast && qOxy && qGreen); {
-    document.querySelector("#cSharps").removeAttribute("class");
+    if (qSnake && qGem && qFast && qOxy && qGreen) {
+    document.querySelector("#python").removeAttribute("class");
+    } else if(qSnake && qGem && qFast && qOxy && !qGreen) {
+      document.querySelector("#ruby").removeAttribute("class");
+    } else if(qSnake && qGem && qFast && !qOxy) {
+      document.querySelector("#swift").removeAttribute("class");  
+    } else if(qSnake && qGem && !qFast) {
+      document.querySelector("#rust").removeAttribute("class");
+    } else if(qSnake && !qGem) {
+      document.querySelector("#go").removeAttribute("class");
+    } else {
+    document.querySelector("cSharp").removeAttribute("class");
   }
-  else{}
 
 }
