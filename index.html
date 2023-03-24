@@ -10,7 +10,9 @@
   <h1>An application to help decide intitial programming language</h1>
     <p>This application will help you decide which programming language fits you best based on arbitrary questions</p>
   <form id="questions">
-  <h2>Questions</h2>
+  <h2>Questions:</h2>
+    <p>pick one yes and the rest no for best results</p>
+  <!--picking one Y will result in most accurate results but Qs arbitrary-->
     <ol>
       <li>Do you enjoy snakes?</li>
         <input type="radio" id="yesQ1" name="snake" value="1" checked>
@@ -58,6 +60,9 @@
     </div>
     <div id="c##" class="hidden">
       <p>You should check out C##</p>
+    </div>
+    <div id="error" class="hidden">
+      <p>must fill one yes and rest no to all questions for best results, or atleast answer all questions before submit</p>
     </div>
 </body>
 </html>
