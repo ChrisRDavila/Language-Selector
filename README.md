@@ -12,7 +12,7 @@
 
 ## Description
 
-_{This application when loaded will allow for selection of a set of asnwers that when submitted will return a coding language that one can try based on branching the iput.}_
+This application when loaded will allow for selection of a set of asnwers that when submitted will return a coding language that one can try based on branching the iput.
 
 ## Setup/Installation Requirements
 
@@ -24,11 +24,11 @@ _{This application when loaded will allow for selection of a set of asnwers that
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _Questions are arbitrary and do not actually guide user towards any real world solution in determining a coding language_
+* _Answer buttons do not start out blank but fixed in "No" to all questions position_
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+<a href="link https://opensource.org/license/mit/">MIT
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) 2023 Christopher Davila
