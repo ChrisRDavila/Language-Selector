@@ -29,6 +29,6 @@ This application when loaded will allow for selection of a set of asnwers that w
 
 ## License
 
-<a href="link https://opensource.org/license/mit/">MIT
+[MIT](https://opensource.org/license/mit/)
 
 Copyright (c) 2023 Christopher Davila
