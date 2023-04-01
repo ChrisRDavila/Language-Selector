@@ -20,9 +20,13 @@ This application when loaded will allow for selection of a set of asnwers that w
 
 * _Clone this repository to your desktop_
 * _Navigate to top level of directory_
-* _Open js/index.html/README.md/CSS in browser_
-* _if viewing browser, pick responses_
-* _click submit and will recieve respose with coding language type_
+* _Open index.html_
+* _once viewing in browser, select YES or NO responses from the questions provided_
+* _click submit button and will recieve an answer with coding language type and picture_
+* _if you so desire, refresh the browser and choose another selection, the previous answer will dissapear and can repeat process as many times as desired_
+* _to view code, simply click on github repo link that has been submitted then choose file to be viewed_
+* _MIT licensing can be found on attached LICENSE.txt file or reached with github LICENSE.md link found in the README.md at bottom of page_
+
 
 ## Known Bugs
 
