@@ -1,21 +1,3 @@
-//UI Logic
-window.addEventListener("load", function() {
-  document.querySelector("form").addEventListener("submit", function(e) {
-    e.preventDefault();
-    hideResults();
-    results();
-    })
-  })    
-
-function hideResults () {
-  document.getElementById("python").setAttribute("class", "hidden");
-  document.getElementById("ruby").setAttribute("class", "hidden");
-  document.getElementById("swift").setAttribute("class", "hidden");
-  document.getElementById("rust").setAttribute("class", "hidden");
-  document.getElementById("go").setAttribute("class", "hidden");
-  document.getElementById("cSharps").setAttribute("class", "hidden");
-}
- 
 //Business Logic
 
 function results() {
@@ -41,3 +23,22 @@ function results() {
     }
 
 }
+
+//UI Logic
+window.addEventListener("load", function() {
+  document.querySelector("form").addEventListener("submit", function(e) {
+    e.preventDefault();
+    hideResults();
+    results();
+    })
+  })    
+
+function hideResults () {
+  document.getElementById("python").setAttribute("class", "hidden");
+  document.getElementById("ruby").setAttribute("class", "hidden");
+  document.getElementById("swift").setAttribute("class", "hidden");
+  document.getElementById("rust").setAttribute("class", "hidden");
+  document.getElementById("go").setAttribute("class", "hidden");
+  document.getElementById("cSharps").setAttribute("class", "hidden");
+}
+ 
