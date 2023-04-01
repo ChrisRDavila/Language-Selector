@@ -40,6 +40,6 @@ This application when loaded will allow for selection of a set of asnwers that w
 
 ## License
 
-[MIT](https://opensource.org/license/mit/)
+[MIT](https://github.com/ChrisRDavila/Language-Selector/blob/add-license-1/LICENSE.md)
 
 Copyright (c) 2023 Christopher Davila
