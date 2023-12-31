@@ -1,6 +1,6 @@
 #  Language Selector
 
-####  **By Christopher Davila**
+####  By Christopher Davila
 
 #### Uses arbitrary questions to decide code language
 
